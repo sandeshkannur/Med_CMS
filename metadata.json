@@ -1,0 +1,8 @@
+
+{
+  "name": "MedFlow Clinic Management System",
+  "description": "A comprehensive clinic management platform featuring AI-powered reporting, patient-specific tracking, automated master logs, and natural language data querying.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
